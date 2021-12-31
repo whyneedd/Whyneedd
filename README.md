@@ -1,5 +1,5 @@
 
-<img src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png" alt="Discord" width="68" height="66">
+<img src="https://logo-marque.com/wp-content/uploads/2020/12/Discord-Logo.png" alt="Discord" width="22px">
 - 👋 Hi, I’m @TheCodingLab
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
