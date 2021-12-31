@@ -7,7 +7,7 @@
 <a href="#"><img align="left" alt="" width="20px" src="public/img/téléchargement (1).png" /></a>
 <a href="#"><img align="left" href="#" alt="Discord" width="22px" src="public/img/discord-logo-4-1[1].png" /></a>
 <a href="#"><img align="left" href="#" alt="Twitter" width="27px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" /></a>
-<a href="#"><img align="left" href="#" alt="Email" width="29px" src="https://logo-marque.com/wp-content/uploads/2020/11/Gmail-Logo.png" /></a>
+<a href="#"><img align="left" href="#" alt="Email" width="29px" src="public/img/Gmail_icon_(2020).svg[1].png" /></a>
 <a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/logo-html5-officiel-w3c[1].png" /></a>
 <a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/CSS3_logo.svg.png" /></a>
 <a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/262px-Unofficial_JavaScript_logo_2.svg[1].png" /></a>
