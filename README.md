@@ -12,13 +12,14 @@
 <a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/CSS3_logo.svg.png" /></a>
 <a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/262px-Unofficial_JavaScript_logo_2.svg[1].png" /></a>
 <a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/typescript-2.svg" /></a>
-
-
 <br><br>
 
 ### Je suis un programmeur en beta testeur !
-- Je m'appelle Jordan, je suis programmeur web et développeur discord je suis aussi étudiant 
-- je crée des sites lorsque je suis libres  
+- Je m'appelle Jordan, je suis programmeur web et développeur discord je suis aussi étudiant.
+- Je crée des **sites webs** et des bot **discord** lorsque j'ai du temps libre.
+- Sinon je suis très sociable et très gentil.
+- Donc si vous voulez discuté un jour avec moi, je serai content de parler de mes passions avec vous.
+- Si vous avez des questions sur mes passions je serai très heureux de vous réppondre.
 <br>
 
 ### Mes projets actuels
