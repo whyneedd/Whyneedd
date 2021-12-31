@@ -6,7 +6,7 @@
 
 <a href="#"><img align="left" alt="" width="20px" src="public/img/téléchargement (1).png" /></a>
 <a href="#"><img align="left" href="#" alt="Discord" width="22px" src="public/img/discord-logo-4-1[1].png" /></a>
-<a href="#"><img align="left" href="#" alt="Twitter" width="27px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" /></a>
+<a href="#"><img align="left" href="#" alt="Twitter" width="26px" src="public/img/Twitter_Bird.svg[1].png" /></a>
 <a href="#"><img align="left" href="#" alt="Email" width="26px" src="public/img/Gmail_icon_(2020).svg[1].png" /></a>
 <a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/logo-html5-officiel-w3c[1].png" /></a>
 <a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/CSS3_logo.svg.png" /></a>
@@ -27,7 +27,6 @@
 - [Nova](https://discord.gg/EShYTc4QYv)
 - [AᴜᴅɪᴏVɪsᴜᴇʟ Mᴏɴᴛᴀɢᴇ Oғғɪᴄɪᴇʟ](https://discord.gg/Ny6yZU5SMw)
 <br><br>
-![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f66722f7468756d622f632f63382f547769747465725f426972642e7376672f3132303070782d547769747465725f426972642e7376672e706e67](https://user-images.githubusercontent.com/82006962/147835999-328505e1-99ac-484a-838c-0135a1453ef9.png)
 
 ### Mes anciens projets
 - Maël
