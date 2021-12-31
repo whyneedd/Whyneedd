@@ -9,7 +9,9 @@
 <img align="left" href="#" alt="Twitter" width="27px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" />
 <img align="left" href="#" alt="Email" width="29px" src="https://logo-marque.com/wp-content/uploads/2020/11/Gmail-Logo.png" />
 <img align="left" href="#" alt="" width="20px" src="public/img/logo-html5-officiel-w3c[1].png" />
+<img align="left" href="#" alt="" width="20px" src="public/img/CSS3-logo.webp" />
 <img align="left" href="#" alt="" width="20px" src="public/img/262px-Unofficial_JavaScript_logo_2.svg[1].png" />
+<img align="left" href="#" alt="" width="20px" src="public/img/typescript-2.svg" />
 
 
 <br><br>
