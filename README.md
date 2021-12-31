@@ -2,16 +2,16 @@
 
 ### Mes informations
 - 🔭 Comment me contacter: [Discord](https://discord.gg/EShYTc4QYv) | [YouTube](https://www.youtube.com/channel/UCfOsdb3unk_Xdc058E9NcfQ) 
-- 🌱 Je développe mes projets en language __JavaScript__, __CSShap__, __Html__, __Ts__
+- 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __Html5__, __TypeScript__
 
-<img align="left" href="#" alt="" width="20px" src="public/img/téléchargement (1).png" />
-<img align="left" href="#" alt="Discord" width="22px" src="public/img/discord-logo-4-1[1].png" />
-<img align="left" href="#" alt="Twitter" width="27px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" />
-<img align="left" href="#" alt="Email" width="29px" src="https://logo-marque.com/wp-content/uploads/2020/11/Gmail-Logo.png" />
-<img align="left" href="#" alt="" width="20px" src="public/img/logo-html5-officiel-w3c[1].png" />
-<img align="left" href="#" alt="" width="20px" src="public/img/CSS3-logo.webp" />
-<img align="left" href="#" alt="" width="20px" src="public/img/262px-Unofficial_JavaScript_logo_2.svg[1].png" />
-<img align="left" href="#" alt="" width="20px" src="public/img/typescript-2.svg" />
+<a href="#"><img align="left" alt="" width="20px" src="public/img/téléchargement (1).png" /></a>
+<a href="#"><img align="left" href="#" alt="Discord" width="22px" src="public/img/discord-logo-4-1[1].png" /></a>
+<a href="#"><img align="left" href="#" alt="Twitter" width="27px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" /></a>
+<a href="#"><img align="left" href="#" alt="Email" width="29px" src="https://logo-marque.com/wp-content/uploads/2020/11/Gmail-Logo.png" /></a>
+<a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/logo-html5-officiel-w3c[1].png" /></a>
+<a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/CSS3_logo.svg.png" /></a>
+<a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/262px-Unofficial_JavaScript_logo_2.svg[1].png" /></a>
+<a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/typescript-2.svg" /></a>
 
 
 <br><br>
