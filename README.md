@@ -14,7 +14,7 @@
 <a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/typescript-2.svg" /></a>
 <br><br>
 
-### Je suis un programmeur en beta testeur !
+### Je suis un programmeur en bêta testeur !
 - Je m'appelle Jordan, je suis programmeur web et développeur discord je suis aussi étudiant.
 - Je crée des **sites webs** et des bot **discord** lorsque j'ai du temps libre.
 - Sinon je suis très sociable et très gentil.
@@ -25,6 +25,7 @@
 ### Mes projets actuels
 - [Slywinter](https://www.slywinter.fr/)
 - [Nova](https://discord.gg/EShYTc4QYv)
+- [La Main Des Devs](https://discord.gg/6p3QyuNgxZ)
 - [AᴜᴅɪᴏVɪsᴜᴇʟ Mᴏɴᴛᴀɢᴇ Oғғɪᴄɪᴇʟ](https://discord.gg/Ny6yZU5SMw)
 <br><br>
 
