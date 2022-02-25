@@ -50,7 +50,7 @@
 ### Mes anciens projets
 - Maël
 - Sly-off
-- Gta 0.5k
+- Antibot
 
 <img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=Zeyrox1050&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeyrox1050&show_icons=true&theme=tokyonight&layout=compact" />
