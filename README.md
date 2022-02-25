@@ -41,10 +41,10 @@
 
 
 ### Mes projets actuels
-- ![Slywinter](https://www.slywinter.fr/)
-- ![Nova](https://discord.gg/EShYTc4QYv)
-- ![La Main Des Devs](https://discord.gg/6p3QyuNgxZ)
-- ![AᴜᴅɪᴏVɪsᴜᴇʟ Mᴏɴᴛᴀɢᴇ Oғғɪᴄɪᴇʟ](https://discord.gg/Ny6yZU5SMw)
+- [Slywinter](https://www.slywinter.fr/)
+- [Nova](https://discord.gg/EShYTc4QYv)
+- [La Main Des Devs](https://discord.gg/6p3QyuNgxZ)
+- [AᴜᴅɪᴏVɪsᴜᴇʟ Mᴏɴᴛᴀɢᴇ Oғғɪᴄɪᴇʟ](https://discord.gg/Ny6yZU5SMw)
 <br><br>
 
 ### Mes anciens projets
