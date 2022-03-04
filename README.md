@@ -2,7 +2,7 @@
 
 ### Mes informations
 - 🔭 Comment me contacter: [Discord](https://discord.gg/EShYTc4QYv) | [YouTube](https://www.youtube.com/channel/UCfOsdb3unk_Xdc058E9NcfQ) 
-- 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __Html5__, __TypeScript__
+- 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
 
 <a href="#"><img align="left" alt="" width="20px" src="public/img/téléchargement (1).png" /></a>
 <a href="#"><img align="left" href="#" alt="Discord" width="22px" src="public/img/discord-logo-4-1[1].png" /></a>
