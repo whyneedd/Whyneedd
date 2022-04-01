@@ -1,4 +1,4 @@
-<h1>Hey, je suis Jordan un dévelopeur web :wave:</h1>
+<h1>Hey, je suis Jordan :wave:</h1>
 
 ### Mes informations
 - 🔭 Comment me contacter: [Discord](https://discord.gg/EShYTc4QYv) | [YouTube](https://www.youtube.com/channel/UCfOsdb3unk_Xdc058E9NcfQ) 
