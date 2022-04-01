@@ -52,5 +52,5 @@
 - Sly-off
 - Antibot
 
-<img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=Azalee10501050&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=Azalee1050&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azalee1050&show_icons=true&theme=tokyonight&layout=compact" />
