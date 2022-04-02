@@ -1,7 +1,7 @@
 <h1>Hey, je suis Jordan :wave:</h1>
 
 ### Mes informations
-- 🔭 Comment me contacter: [Discord](https://discord.gg/EShYTc4QYv) | [YouTube](https://www.youtube.com/channel/UCfOsdb3unk_Xdc058E9NcfQ) 
+- 🔭 Comment me contacter: [Discord](https://discord.gg/EShYTc4QYv) | [YouTube](https://www.youtube.com/channel/UCfOsdb3unk_Xdc058E9NcfQ) | [Twitter](https://twitter.com/)
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
 
 <a href="#"><img align="left" alt="" width="20px" src="public/img/téléchargement (1).png" /></a>
