@@ -39,18 +39,5 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-### Mes projets actuels
-- [Slywinter](https://www.slywinter.fr/)
-- [Nova](https://discord.gg/EShYTc4QYv)
-- [La Main Des Devs](https://discord.gg/6p3QyuNgxZ)
-- [AᴜᴅɪᴏVɪsᴜᴇʟ Mᴏɴᴛᴀɢᴇ Oғғɪᴄɪᴇʟ](https://discord.gg/Ny6yZU5SMw)
-<br><br>
-
-### Mes anciens projets
-- Maël
-- Sly-off
-- Antibot
-
 <img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=Ayakocode&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayakocode&show_icons=true&theme=tokyonight&layout=compact" />
