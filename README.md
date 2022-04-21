@@ -41,7 +41,5 @@
 
 ### Mes stats 📊
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ayakocode&layout=compact&theme=github_dark&enable_animations=true&border_color=30363D&custom_title=WakaTime+Last+7+Days" alt="Wakatime Stats"/>
 <img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=Ayakocode&show_icons=true&hide_border=true&theme=tokyonight" />
 <img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayakocode&show_icons=true&theme=tokyonight&layout=compact" />
