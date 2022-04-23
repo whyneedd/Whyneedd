@@ -22,7 +22,7 @@
 - Si vous avez des questions sur mes passions je serai très heureux de vous réppondre.
 <br>
 
-### 📊 GitHub statistics 
+### 📊 Statistiques gitHub 
 
 <img alt="ZeTro's stats" src="https://github-readme-stats.vercel.app/api?username=skizz-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
  <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skizz-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
