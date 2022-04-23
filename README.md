@@ -4,16 +4,6 @@
 - 🔭 Comment me contacter: [Discord](https://discord.gg/wgeaecX3UK) | [WebSite](https://google.com)
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
 
-<a href="#"><img align="left" alt="" width="20px" src="public/img/téléchargement (1).png" /></a>
-<a href="#"><img align="left" href="#" alt="Discord" width="22px" src="public/img/discord-logo-4-1[1].png" /></a>
-<a href="#"><img align="left" href="#" alt="Twitter" width="26px" src="public/img/Twitter_Bird.svg[1].png" /></a>
-<a href="#"><img align="left" href="#" alt="Email" width="26px" src="public/img/Gmail_icon_(2020).svg[1].png" /></a>
-<a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/logo-html5-officiel-w3c[1].png" /></a>
-<a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/CSS3_logo.svg.png" /></a>
-<a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/262px-Unofficial_JavaScript_logo_2.svg[1].png" /></a>
-<a href="#"><img align="left" href="#" alt="" width="20px" src="public/img/typescript-2.svg" /></a>
-<br><br>
-
 ### Je suis un programmeur en bêta testeur !
 - Je m'appelle Jordan, je suis programmeur web et développeur discord je suis aussi étudiant.
 - Je crée des **sites webs** et des bot **discord** lorsque j'ai du temps libre.
