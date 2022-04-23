@@ -1,4 +1,4 @@
-<h1>Hey, je suis Jordan :wave:</h1>
+<h1>Salut :wave:</h1>
 
 ### Mes informations
 - 🔭 Comment me contacter: [Discord](https://discord.gg/wgeaecX3UK) | [WebSite](https://google.com)
