@@ -24,5 +24,5 @@
 
 ### 📊 GitHub statistics 
 
-<img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=skizz-dev&show_icons=true&hide_border=true&theme=tokyonight" />
-<img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=skizz-dev&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="ZeTro's stats" src="https://github-readme-stats.vercel.app/api?username=skizz-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+ <img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=skizz-dev&show_icons=true&theme=tokyonight&layout=compact" />
