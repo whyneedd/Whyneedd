@@ -24,5 +24,5 @@
 
 ### 📊 GitHub statistics 
 
-<img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=Ayakocode&show_icons=true&hide_border=true&theme=tokyonight" />
-<img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayakocode&show_icons=true&theme=tokyonight&layout=compact" />
+<img alt="Statistiques" src="https://github-readme-stats.vercel.app/api?username=skizz-dev&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="Languages utilisés" src="https://github-readme-stats.vercel.app/api/top-langs?username=skizz-dev&show_icons=true&theme=tokyonight&layout=compact" />
