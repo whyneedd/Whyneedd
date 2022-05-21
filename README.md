@@ -1,3 +1,5 @@
+<img src="./githubBannerWebdesigner.png" style="height: 70vh;width: 100%;">
+
 <h1>Salut !:wave:</h1>
 
 ### Mes informations
