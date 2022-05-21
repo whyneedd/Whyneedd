@@ -1,4 +1,4 @@
-<img src="./githubBannerWebdesigner.png" style="height: 70vh;width: 100%;border-radius: 52px;">
+<img src="./githubBannerWebdesigner.png" style="">
 
 <h1>Salut !:wave:</h1>
 
