@@ -16,5 +16,5 @@
 
 ### 📊 Statistiques Github 
 
-<img alt="SkyzZ stats" src="https://github-readme-stats.vercel.app/api?username=SkyzZ-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
- <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyzZ-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<img alt="SkyzZ stats" src="https://github-readme-stats.vercel.app/api?username=ZedroxAced&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+ <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZedroxAces&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
