@@ -1,4 +1,4 @@
-<img src="./githubBannerWebdesigner.png" style="">
+
 
 <h1>Salut !:wave:</h1>
 
