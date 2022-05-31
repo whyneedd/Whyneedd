@@ -8,7 +8,7 @@
  </div>
 
 ### Mes informations
-- 🔭 Comment me contacter: [Discord](https://discord.gg/zSb5MCub3k).
+- 🔭 Comment me contacter: email. 
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
 
 ### Je suis un programmeur en bêta testeur !
