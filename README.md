@@ -2,6 +2,11 @@
 
 <h1>Salut !:wave:</h1>
 
+### Trophé Github
+<div>
+ <img width=800 src="https://github-profile-trophy.vercel.app/?username=maalone2408&column=8&theme=gruvbox&no-frame=true"/>
+ </div>
+
 ### Mes informations
 - 🔭 Comment me contacter: [Discord](https://discord.gg/zSb5MCub3k).
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
