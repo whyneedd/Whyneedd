@@ -12,8 +12,8 @@
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
 
 ### Je suis un programmeur en bêta testeur !
-- Je m'appelle Jordan, je suis programmeur **Web** et développeur **Discord** je suis aussi étudiant.
-- Je crée des **sites web** et des bot **discord** lorsque j'ai du temps libre.
+- Je m'appelle Jordan, je suis programmeur **Web**, je suis aussi étudiant.
+- Je crée des **sites web** lorsque j'ai du temps libre.
 - Sinon je suis très sociable et très gentil.
 - Donc si vous voulez discuté un jour avec moi, je serai content de parler de mes passions avec vous.
 - Si vous avez des questions sur mes passions je serai très heureux de vous réppondre.
