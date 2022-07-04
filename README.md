@@ -4,7 +4,7 @@
 
 ### Trophé Github
 <div>
- <img width=800 src="https://github-profile-trophy.vercel.app/?username=maalone2408&column=8&theme=gruvbox&no-frame=true"/>
+ <img width=800 src="https://github-profile-trophy.vercel.app/?username=Zedrox888&column=8&theme=gruvbox&no-frame=true"/>
  </div>
 
 ### Mes informations
@@ -21,5 +21,5 @@
 
 ### 📊 Statistiques Github 
 
-<img alt="Maalone2408 Stats" src="https://github-readme-stats.vercel.app/api?username=maalone2408&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
- <img alt="Maalone2408 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalone2408&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<img alt="Maalone2408 Stats" src="https://github-readme-stats.vercel.app/api?username=Zedrox888&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+ <img alt="Maalone2408 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedrox888&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
