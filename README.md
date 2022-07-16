@@ -1,14 +1,11 @@
 
 
-<h1>Salut !:wave:</h1>
+<h1 align="center">Salut :wave:, Je suis Zedrox</h1>
 
 ### Trophé Github
 <div>
  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Zedrox888&column=8&theme=gruvbox&no-frame=true"/>
  </div>
-
-### Codage des carburants du café ☕️
-<a href="https://www.buymeacoffee.com/zedrox888" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### Mes informations
 - 🔭 Comment me contacter: email. 
@@ -21,6 +18,9 @@
 - Donc si vous voulez discuté un jour avec moi, je serai content de parler de mes passions avec vous.
 - Si vous avez des questions sur mes passions je serai très heureux de vous réppondre.
 <br>
+
+### Codage des carburants du café ☕️
+<a href="https://www.buymeacoffee.com/zedrox888" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### 📊 Statistiques Github 
 
