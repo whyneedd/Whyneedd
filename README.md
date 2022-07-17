@@ -7,6 +7,10 @@
  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Zedrox888&column=8&theme=gruvbox&no-frame=true"/>
  </div>
 
+<div>
+<img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
 ### Mes informations
 - 🔭 Comment me contacter: email. 
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
