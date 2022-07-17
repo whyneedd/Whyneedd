@@ -32,5 +32,8 @@
 
 ### 📊 Statistiques Github 
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=zedrox888&&theme=xcode)](https://github.com/zedrox888)
+
+
 <img alt="Maalone2408 Stats" src="https://github-readme-stats.vercel.app/api?username=Zedrox888&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
  <img alt="Maalone2408 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedrox888&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
