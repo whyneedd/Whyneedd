@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Salut :wave:, Je suis Zedrox</h1>
+<h1 align="center">Salut :wave:, Je suis Zertox</h1>
 
 <div>
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -11,15 +11,15 @@
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
 
 ### Je suis un programmeur en bêta testeur !
-- Je m'appelle Jordan, je suis programmeur **Web**, je suis aussi étudiant.
-- Je crée des **sites web** lorsque j'ai du temps libre.
+- Je m'appelle Jordan, je suis programmeur **web**, je suis aussi étudiant.
+- Je crée des **interface web** lorsque j'ai du temps libre.
 - Sinon je suis très sociable et très gentil.
 - Donc si vous voulez discuté un jour avec moi, je serai content de parler de mes passions avec vous.
 - Si vous avez des questions sur mes passions je serai très heureux de vous réppondre.
 <br>
 
 <div  align="center">
- <img width=800 src="https://github-profile-trophy.vercel.app/?username=Zedrox888&column=8&theme=gruvbox&no-frame=true"/>
+ <img width=800 src="https://github-profile-trophy.vercel.app/?username=Zertox-dev&column=8&theme=gruvbox&no-frame=true"/>
  </div>
  
  
@@ -32,8 +32,8 @@
 
 ### 📊 Statistiques Github 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=zedrox888&&theme=xcode)](https://github.com/zedrox888)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zertox-dev&&theme=xcode)](https://github.com/Zertox-dev)
 
 
-<img alt="Maalone2408 Stats" src="https://github-readme-stats.vercel.app/api?username=Zedrox888&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
- <img alt="Maalone2408 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zedrox888&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<img alt="Zertox-dev Stats" src="https://github-readme-stats.vercel.app/api?username=Zertox-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+ <img alt="Zertox-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zertox-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
