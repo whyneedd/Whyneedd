@@ -19,7 +19,7 @@
 <br>
 
 ### Trophée du profil Github
-<div  align="center">
+<div  align="left">
  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Zertox-dev&column=8&theme=gruvbox&no-frame=true"/>
  </div>
  
