@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Salut :wave:, Je suis Zertox</h1>
+<h1 align="center">Salut :wave:, Je suis Zorax</h1>
 
 <div>
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -20,7 +20,7 @@
 
 ### Trophée du profil Github
 <div  align="left">
- <img width=800 src="https://github-profile-trophy.vercel.app/?username=Zertox-dev&column=8&theme=gruvbox&no-frame=true"/>
+ <img width=800 src="https://github-profile-trophy.vercel.app/?username=Zorax-dev&column=8&theme=gruvbox&no-frame=true"/>
  </div>
  
  
@@ -29,12 +29,12 @@
 
 
 ### Codage des carburants du café ☕️
-<a href="https://www.buymeacoffee.com/Zertoxdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/ZoraxDev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### 📊 Statistiques Github 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zertox-dev&&theme=xcode)](https://github.com/Zertox-dev)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zorax-dev&&theme=xcode)](https://github.com/Zorax-dev)
 
 
-<img alt="Zertox-dev Stats" src="https://github-readme-stats.vercel.app/api?username=Zertox-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
- <img alt="Zertox-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zertox-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<img alt="Zorax-dev Stats" src="https://github-readme-stats.vercel.app/api?username=Zorax-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+ <img alt="Zorax-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zorax-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
