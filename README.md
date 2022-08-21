@@ -7,7 +7,7 @@
 </div>
 
 ### Mes informations
-- 🔭 Comment me contacter: email, discord(zertox#2048).
+- 🔭 Comment me contacter: email, discord(Zora#1949).
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
 
 ### Je suis un programmeur en bêta testeur !
