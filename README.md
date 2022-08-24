@@ -7,7 +7,7 @@
 </div>
 
 ### Mes informations
-- 🔭 Comment me contacter: email, discord(Zora#1949).
+- 🔭 Comment me contacter: email, discord(Zorax#1949).
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
 
 ### Je suis un programmeur en bêta testeur !
@@ -29,7 +29,7 @@
 
 
 ### Codage des carburants du café ☕️
-<a href="https://www.buymeacoffee.com/ZoraxDev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/Zoraxdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### 📊 Statistiques Github 
 
