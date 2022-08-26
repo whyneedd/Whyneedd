@@ -14,8 +14,8 @@
 - Je m'appelle Jordan, je suis programmeur **web**, je suis aussi étudiant.
 - Je crée des **interface web** lorsque j'ai du temps libre.
 - Sinon je suis très sociable et très gentil.
-- Donc si vous voulez discuté un jour avec moi, je serai content de parler de mes passions avec vous.
-- Si vous avez des questions sur mes passions je serai très heureux de vous réppondre.
+- Donc si vous voulez discuter un jour avec moi, je serais content de parler de mes passions avec vous.
+- Si vous avez des questions sur mes passions je serais très heureux de vous répondre.
 <br>
 
 <h3 align="left">Langages et outils:</h3>
