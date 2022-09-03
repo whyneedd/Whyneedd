@@ -1,13 +1,13 @@
 
 
-<h1 align="center">Salut :wave:, Je suis Zorax</h1>
+<h1 align="center">Salut :wave:, Je suis Zetrox</h1>
 
 <div>
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 ### Mes informations
-- 🔭 Comment me contacter: email, discord(Zorax#1949).
+- 🔭 Comment me contacter: email, discord(Zetrox#1949).
 - 🌱 Je développe mes projets en language __JavaScript__, __CSS3__, __SASS__, __Html5__, __TypeScript__, __Ejs__.
 
 ### Je suis un programmeur en bêta testeur !
@@ -23,12 +23,12 @@
 
 
 ### Codage des carburants du café ☕️
-<a href="https://www.buymeacoffee.com/Zoraxdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/Mrzetrox" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### 📊 Statistiques Github 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zorax-dev&&theme=xcode)](https://github.com/Zorax-dev)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Zetrox-dev&&theme=xcode)](https://github.com/Zorax-dev)
 
 
-<img alt="Zorax-dev Stats" src="https://github-readme-stats.vercel.app/api?username=Zorax-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
- <img alt="Zorax-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zorax-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<img alt="Zorax-dev Stats" src="https://github-readme-stats.vercel.app/api?username=Zetrox-dev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+ <img alt="Zorax-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zetrox-dev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
