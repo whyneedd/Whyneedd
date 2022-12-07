@@ -23,6 +23,8 @@ Ravie de te rencontrer ! :wave:
 
 ## 📌Référentiels épinglés
 
+<br>
+
 <a href="https://github.com/Wahyne/html-css-dark-mode-template/">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyne&repo=html-css-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -43,7 +45,10 @@ Ravie de te rencontrer ! :wave:
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyne&repo=Portfolio-Responsive-Amelia&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<br>
 ## 📈Statistiques GitHub
+
+<br>
 
 <a href="https://github.com/Wahyne">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyne&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -52,3 +57,5 @@ Ravie de te rencontrer ! :wave:
 <a href="https://github.com/Wahyne">
   <img align="center" style="margin:0.5rem" alt="Wahyne Stats" src="https://github-readme-stats.vercel.app/api?username=Wahyne&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1A2B34"/></a>
 </a>
+
+<br>
