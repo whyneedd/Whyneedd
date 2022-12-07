@@ -34,5 +34,5 @@ Ravie de te rencontrer ! :wave:
 </a>
 
 <a href="https://github.com/Wahyne">
-  <img alt="Wahyne Stats" src="https://github-readme-stats.vercel.app/api?username=Wahyne&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1A2B34"/></a>
+  <img align="center" style="margin:0.5rem" alt="Wahyne Stats" src="https://github-readme-stats.vercel.app/api?username=Wahyne&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1A2B34"/></a>
 </a>
