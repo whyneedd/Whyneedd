@@ -1,3 +1,4 @@
+Ravie de te rencontrer ! <img src="waving-hi.gif">
 
 ### Mes informations
 - 🔭 Comment me contacter: email(jordan2offshel@hotmail.com), discord(Wahyne#1949).
