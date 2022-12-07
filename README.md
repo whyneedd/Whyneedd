@@ -27,6 +27,22 @@ Ravie de te rencontrer ! :wave:
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyne&repo=html-css-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/Wahyne/Mini-button-with-bulle-notif">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyne&repo=Mini-button-with-bulle-notif&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Wahyne/Mini-portfolio-for-dev-app">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyne&repo=Mini-portfolio-for-dev-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Wahyne/NuklariaDiscordBot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyne&repo=NuklariaDiscordBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Wahyne/Portfolio-Responsive-Amelia">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=wahyne&repo=Portfolio-Responsive-Amelia&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 ## 📈Statistiques GitHub
 
 <a href="https://github.com/Wahyne">
