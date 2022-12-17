@@ -2,7 +2,7 @@ Ravie de te rencontrer ! :wave:
 
 ## Mes informations
 
-- 🔭 Comment me contacter: email(jordan2offshel@hotmail.com), discord(Wahyne#1949).
+- 🔭 Comment me contacter: email(jordan2offshel@hotmail.com), discord(Whyneed#1949).
 - 🌱 Je développe mes projets en language **JavaScript**, **CSS3**, **SASS**, **Html5**, **TypeScript**, **Ejs**.
 
 ## Je suis un programmeur en bêta testeur !
@@ -24,24 +24,24 @@ Ravie de te rencontrer ! :wave:
 
 <br>
 
-<a href="https://github.com/Wahyne/html-css-dark-mode-template/">
+<a href="https://github.com/Whyneed/html-css-dark-mode-template/">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Wahyne&repo=html-css-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Wahyne/Mini-button-with-bulle-notif">
+<a href="https://github.com/Whyneed/Mini-button-with-bulle-notif">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Wahyne&repo=Mini-button-with-bulle-notif&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Wahyne/Mini-portfolio-for-dev-app">
+<a href="https://github.com/Whyneed/Mini-portfolio-for-dev-app">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Wahyne&repo=Mini-portfolio-for-dev-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Wahyne/NuklariaDiscordBot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Wahyne&repo=NuklariaDiscordBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Whyneed/NuklariaDiscordBot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Whyneed&repo=NuklariaDiscordBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Wahyne/Portfolio-Responsive-Amelia">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Wahyne&repo=Portfolio-Responsive-Amelia&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Whyneed/Portfolio-Responsive-Amelia">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Whyneed&repo=Portfolio-Responsive-Amelia&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -50,12 +50,12 @@ Ravie de te rencontrer ! :wave:
 
 <br>
 
-<a href="https://github.com/Wahyne">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyne&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Whyneed">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyneed&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Wahyne">
-  <img align="center" style="margin:0.5rem" alt="Wahyne Stats" src="https://github-readme-stats.vercel.app/api?username=Wahyne&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1A2B34"/></a>
+<a href="https://github.com/Whyneed">
+  <img align="center" style="margin:0.5rem" alt="Whyneed Stats" src="https://github-readme-stats.vercel.app/api?username=Whyneed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1A2B34"/></a>
 </a>
 
 <br>
