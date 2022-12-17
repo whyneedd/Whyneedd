@@ -24,24 +24,24 @@ Ravie de te rencontrer ! :wave:
 
 <br>
 
-<a href="https://github.com/Whyneed/html-css-dark-mode-template/">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Wahyne&repo=html-css-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Whyneedd/html-css-dark-mode-template/">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=whyneedd&repo=html-css-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Whyneed/Mini-button-with-bulle-notif">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Wahyne&repo=Mini-button-with-bulle-notif&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Whyneedd/Mini-button-with-bulle-notif">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=whyneedd&repo=Mini-button-with-bulle-notif&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Whyneed/Mini-portfolio-for-dev-app">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Wahyne&repo=Mini-portfolio-for-dev-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Whyneedd/Mini-portfolio-for-dev-app">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=whyneedd&repo=Mini-portfolio-for-dev-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Whyneed/NuklariaDiscordBot">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Whyneed&repo=NuklariaDiscordBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Whyneedd/NuklariaDiscordBot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Whyneedd&repo=NuklariaDiscordBot&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Whyneed/Portfolio-Responsive-Amelia">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Whyneed&repo=Portfolio-Responsive-Amelia&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Whyneedd/Portfolio-Responsive-Amelia">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Whyneedd&repo=Portfolio-Responsive-Amelia&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -50,12 +50,12 @@ Ravie de te rencontrer ! :wave:
 
 <br>
 
-<a href="https://github.com/Whyneed">
+<a href="https://github.com/Whyneedd">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whyneed&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Whyneed">
-  <img align="center" style="margin:0.5rem" alt="Whyneed Stats" src="https://github-readme-stats.vercel.app/api?username=Whyneed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1A2B34"/></a>
+<a href="https://github.com/Whyneedd">
+  <img align="center" style="margin:0.5rem" alt="Whyneed Stats" src="https://github-readme-stats.vercel.app/api?username=Whyneedd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1A2B34"/></a>
 </a>
 
 <br>
